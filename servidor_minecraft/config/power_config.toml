@@ -1,0 +1,7 @@
+
+[basic_settings]
+	#Sets the base duration value for the master effect
+	master_effect_duration = 600.0
+	#Sets the recharge time of the stone
+	recharge_timer = 300.0
+
